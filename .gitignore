@@ -6,3 +6,6 @@ build/
 .pub-cache/
 .idea/
 .vscode/
+
+.dart_tool/
+build/
